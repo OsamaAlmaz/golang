@@ -1,0 +1,5 @@
+INITIAL	A	B	C	D	SUPPLY
+Source1	21	-	22	11	54
+Source2	-	32	-	35	67
+Source3	-	-	29	-	29
+DEMAND	21	32	51	46
