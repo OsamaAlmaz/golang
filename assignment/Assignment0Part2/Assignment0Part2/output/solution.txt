@@ -1,0 +1,6 @@
+FINAL	A	B	C	SUPPLY
+Source1	25	-	125	150
+Source2	-	-	175	175
+Source3	175	100	-	275
+DEMAND	200	100	300	
+Total Cost is -1
